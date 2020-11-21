@@ -1,6 +1,7 @@
 *Amazon_Vine_Analysis*
 
 **Overview of the Analysis**
+
 The purpose of our analysis was to import data about Amazon product reviews and to analyze the varability in customer reviews between Amazon's subscription service users and those who were not members. This analysis looked at a dataset of power tools from American Amazon users. 
 
 After uploading the review to an RDS server I then extracted dataframes, constructing parallel dataframes for paid and unpaid customers using the .loc method like so: 
