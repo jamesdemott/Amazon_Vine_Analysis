@@ -5,9 +5,9 @@ The purpose of our analysis was to import data about Amazon product reviews and 
 
 After uploading the review to an RDS server I then extracted dataframes, constructing parallel dataframes for paid and unpaid customers using the .loc method like so: 
 
-![screenshot]
 
-(https://github.com/jamesdemott/Amazon_Vine_Analysis/blob/main/Challenge/Screen%20Shot%202020-11-21%20at%201.46.32%20PM.png?raw=true)
+
+![screenshot](https://github.com/jamesdemott/Amazon_Vine_Analysis/blob/main/Challenge/Screen%20Shot%202020-11-21%20at%201.46.32%20PM.png)
 
 
 
