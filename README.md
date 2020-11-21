@@ -13,6 +13,7 @@ After uploading the review to an RDS server I then extracted dataframes, constru
 
 
 **Results of the Analysis** 
+
 ______________________Total Review Counts______________________
 The total number of paid reviews was 2,866
 The total number of unpaid reviews was 506,459
@@ -24,4 +25,5 @@ For paid product, the total percentage of 5 star reviews was 51.5%
 For unpaid product, the total percentage of 5 star reviews was 53.3%
 
 **Summary**
+
 In summary there appears to be a slight bias from paid users to positively review products. 53.5% of paid reviews were five stars as opposed to 51.5% of five star reviews given by unpaid users. Obviously there are substantive bias problems. Including user selection (i.e. users are more likely to leave a 5 star review when they are thrilled with a product) as well as ease-of-use bias (i.e. paid users are more likely to leave 5 star reviews as these users are likely to be more familiar with the platform/more regular users). Further analysis should investigate negative reviews and whether any of these results are meaningfully significant or could inform further business development. 
